@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     # Allow manual triggering
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   update-profile:
@@ -16,15 +16,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - name: Update GitHub Stats
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.githubstats.svg
+          filename: metrics/githubstats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
           config_timezone: Asia/Kolkata
           user: Pulkit0719
           template: classic
@@ -45,9 +42,8 @@ jobs:
       - name: Update Top Languages
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.toplangs.svg
+          filename: metrics/toplangs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
           config_timezone: Asia/Kolkata
           user: Pulkit0719
           template: classic
@@ -60,9 +56,8 @@ jobs:
       - name: Update Contribution Activity
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.activity.svg
+          filename: metrics/activity.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
           config_timezone: Asia/Kolkata
           user: Pulkit0719
           template: classic
@@ -79,6 +74,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add metrics.*
+          git add metrics/
           git commit -m "Update GitHub profile metrics" || echo "No changes to commit"
           git push

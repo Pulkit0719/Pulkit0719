@@ -134,7 +134,7 @@ Relevant Coursework: Data Structures, Algorithms, Database Management Systems, S
 ### 🎯 Contribution Visualizations
 <div align="center">
   <h3>GitHub Contribution Visualizations</h3>
-  <img src="https://raw.githubusercontent.com/Pulkit0719/Pulkit0719/main/profile-3d-contrib/github-profile-3d-contrib.gif" alt="GitHub Profile 3D Contribution" width="300"/>
+  <img src="https://raw.githubusercontent.com/Pulkit0719/Pulkit0719/main/profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile 3D Contribution" width="300"/>
   <br/>
   <small>Profile 3D Contribution Visualization</small>
   <br/><br/>

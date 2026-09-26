@@ -1,0 +1,84 @@
+name: Update GitHub Profile Analytics
+
+on:
+  schedule:
+    # Run every 6 hours to keep stats updated
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+  push:
+    branches: [ main ]
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Update GitHub Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.githubstats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          user: Pulkit0719
+          template: classic
+          base: header, activity, community, repositories
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: yes
+          plugin_languages_recent_load: 500
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_traffic: yes
+
+      - name: Update Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.toplangs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          user: Pulkit0719
+          template: classic
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_colors: github
+          plugin_languages_threshold: 2%
+
+      - name: Update Contribution Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.activity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+          user: Pulkit0719
+          template: classic
+          base: header, activity, community, repositories
+          plugin_activity: yes
+          plugin_activity_days: 365
+          plugin_activity_load: 500
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_rank: stars
+          plugin_activity_sort: stars
+
+      - name: Commit updated metrics
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add metrics.*
+          git commit -m "Update GitHub profile metrics" || echo "No changes to commit"
+          git push

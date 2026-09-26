@@ -1,0 +1,16 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#11998e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#38ef7d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#grad2)" />
+  <circle cx="400" cy="100" r="80" fill="rgba(255,255,255,0.2)" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    PYTHON DEVELOPER
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16">
+    AI & FULL-STACK WEB DEVELOPMENT
+  </text>
+</svg>

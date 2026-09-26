@@ -1,0 +1,28 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad6" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a8edea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fed6e3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="200" rx="15" fill="url(#grad6)" />
+  <circle cx="50" cy="50" r="30" fill="#6c5ce7" />
+  <text x="50" y="55" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    </>
+  </text>
+  <text x="100" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2d3436">
+    Development
+  </text>
+  <text x="100" y="70" font-family="Arial, sans-serif" font-size="14" fill="#636e72">
+    Full-Stack • DevOps • Tools
+  </text>
+  <text x="150" y="110" font-family="Arial, sans-serif" font-size="12" fill="#636e72">
+    Git • GitHub • VS Code
+  </text>
+  <text x="150" y="130" font-family="Arial, sans-serif" font-size="12" fill="#636e72">
+    npm • pnpm • Postman
+  </text>
+  <text x="150" y="150" font-family="Arial, sans-serif" font-size="12" fill="#636e72">
+    Docker • Kubernetes
+  </text>
+</svg>

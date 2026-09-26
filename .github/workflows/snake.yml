@@ -1,0 +1,33 @@
+name: Generate snake game from github contribution grid
+
+on:
+  schedule:
+    # Run once daily at 01:00 UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate SVG/GIF from GitHub contribution grid
+    permissions:
+      contents: write  # Needed to commit generated files
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate SVG/GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Outputs
+          svg_out: output/snake.svg
+          gif_out: output/snake.gif
+          # JSON data for potential other uses
+          json_out: output/snake.json
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/
+          git commit -m "Update GitHub Contribution Snake Visualization" || echo "No changes to commit"
+          git push

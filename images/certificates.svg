@@ -1,19 +1,71 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="440" height="230" viewBox="0 0 440 230" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="grad10" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffeaa7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#fab1a0;stop-opacity:1" />
+    <linearGradient id="certBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090f1d" />
+      <stop offset="100%" stop-color="#0e182e" />
+    </linearGradient>
+    <linearGradient id="certBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2ea043" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#388bfd" stop-opacity="0.8" />
     </linearGradient>
   </defs>
-  <rect width="300" height="200" rx="15" fill="url(#grad10)" />
-  <circle cx="50" cy="50" r="30" fill="#fab1a0" />
-  <text x="50" y="55" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
-    🏆
+
+  <!-- Background Card -->
+  <rect x="2" y="2" width="436" height="226" rx="14" fill="url(#certBg)" stroke="url(#certBorder)" stroke-width="1.5" />
+
+  <!-- Corner Icon & Header -->
+  <g transform="translate(24, 24)">
+    <rect width="44" height="44" rx="10" fill="#0d2e1c" stroke="#2ea043" stroke-width="1" />
+    <!-- Trophy Icon -->
+    <path d="M 16 16 L 28 16 L 28 22 C 28 25 25 28 22 28 C 19 28 16 25 16 22 Z" fill="#3fb950" />
+    <path d="M 16 18 L 12 18 C 11 18 10 19 10 20 C 10 22 12 24 16 24" stroke="#3fb950" stroke-width="1.5" fill="none" />
+    <path d="M 28 18 L 32 18 C 33 18 34 19 34 20 C 34 22 32 24 28 24" stroke="#3fb950" stroke-width="1.5" fill="none" />
+    <path d="M 22 28 L 22 32" stroke="#3fb950" stroke-width="2" />
+    <line x1="18" y1="32" x2="26" y2="32" stroke="#3fb950" stroke-width="2" stroke-linecap="round" />
+  </g>
+
+  <text x="80" y="42" fill="#3fb950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700" letter-spacing="1">
+    VERIFIED CREDENTIALS
   </text>
-  <text x="100" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#2d3436">
-    Certifications
+  <text x="80" y="62" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700">
+    Professional Certifications
   </text>
-  <text x="100" y="80" font-family="Arial, sans-serif" font-size="16" fill="#636e72">
-    AI • GENERATIVE AI • PYTHON • DATA
-  </text>
+
+  <!-- Highlights Info -->
+  <g transform="translate(24, 86)">
+    <text x="0" y="16" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">
+      Google • Google Cloud • IBM • Vanderbilt
+    </text>
+    <text x="0" y="34" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">
+      Specializations &amp; Professional Certificates via Coursera
+    </text>
+  </g>
+
+  <!-- Specialization Chips -->
+  <g transform="translate(24, 142)">
+    <text x="0" y="10" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">
+      Specialized Focus Areas:
+    </text>
+
+    <!-- Chips Row 1 -->
+    <g transform="translate(0, 20)">
+      <rect width="135" height="22" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="67" y="15" text-anchor="middle" fill="#58a6ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500">Google AI Essentials</text>
+
+      <rect x="143" width="140" height="22" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="213" y="15" text-anchor="middle" fill="#3fb950" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500">Generative AI Leader</text>
+
+      <rect x="291" width="100" height="22" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="341" y="15" text-anchor="middle" fill="#79c0ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500">IBM AI &amp; Python</text>
+    </g>
+
+    <!-- Chips Row 2 -->
+    <g transform="translate(0, 48)">
+      <rect width="145" height="22" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="72" y="15" text-anchor="middle" fill="#d2a8ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500">GenAI Strategic Leader</text>
+
+      <rect x="153" width="135" height="22" rx="5" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <text x="220" y="15" text-anchor="middle" fill="#ffa657" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="500">Prompt Engineering</text>
+    </g>
+  </g>
 </svg>

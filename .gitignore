@@ -1,0 +1,9 @@
+# Temporary chat logs and parse scripts
+chat_transcript.md
+parse_chat.py
+parse_chat_fixed.py
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

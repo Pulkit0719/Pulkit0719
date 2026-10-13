@@ -255,7 +255,25 @@
 
 <div align="center">
 
-### 2. **JaanchKaro**
+### 2. [**WorkTruth**](https://github.com/Rahul-Baghel01/WorkTruth-Evidence-Platform)
+**MPLADS Project Monitoring & Evidence Review Platform**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Rahul-Baghel01/WorkTruth-Evidence-Platform)
+[![React and Vite](https://img.shields.io/badge/React_%2B_Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/Rahul-Baghel01/WorkTruth-Evidence-Platform)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Rahul-Baghel01/WorkTruth-Evidence-Platform)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Rahul-Baghel01/WorkTruth-Evidence-Platform)
+
+</div>
+
+- **Evidence review**: Compares financial, geospatial, visual, text, and temporal evidence to surface inconsistencies for human verification.
+- **Explainable prioritization**: Combines available lens results and confidence into a verification queue with a traceable Why Trail.
+- **Role**: Contributor to developer setup and documentation.
+
+---
+
+<div align="center">
+
+### 3. **JaanchKaro**
 **Fake & Suspicious Internship Risk Detection System**
 
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Pulkit0719)
@@ -274,7 +292,7 @@
 
 <div align="center">
 
-### 3. **Evara**
+### 4. **Evara**
 **Women-Centric Menstrual Health & Holistic Wellness Platform**
 
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Pulkit0719)

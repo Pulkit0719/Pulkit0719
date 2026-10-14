@@ -82,9 +82,9 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Pulkit0719) | [![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Pulkit0719) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Pulkit0719) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Pulkit0719) | [![Generative AI](https://img.shields.io/badge/Generative_AI-0070F3?style=flat-square&logo=google-gemini&logoColor=white)](https://github.com/Pulkit0719) | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/Pulkit0719) |
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Pulkit0719) | [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/Pulkit0719) | [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Pulkit0719) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Pulkit0719) | [![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/Pulkit0719) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pulkit0719) |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Pulkit0719) | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/Pulkit0719) | [![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Pulkit0719) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Pulkit0719) | [![Groq](https://img.shields.io/badge/Groq_Inference-F55036?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Pulkit0719) | [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/Pulkit0719) |
+| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Pulkit0719) | [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/Pulkit0719) | [![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Pulkit0719) | [![TiDB / MySQL](https://img.shields.io/badge/TiDB_%2F_MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Pulkit0719) | [![Groq](https://img.shields.io/badge/Groq_Inference-F55036?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/Pulkit0719) | [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/Pulkit0719) |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Pulkit0719) | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/Pulkit0719) | [![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)](https://github.com/Pulkit0719) | [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://github.com/Pulkit0719) | [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square&logo=probot&logoColor=white)](https://github.com/Pulkit0719) | [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/Pulkit0719) |
-| [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Pulkit0719) | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Pulkit0719) / [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/Pulkit0719) | [![System Design](https://img.shields.io/badge/App_Architecture-0d1117?style=flat-square&logo=diagramsdotnet&logoColor=white)](https://github.com/Pulkit0719) | [![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Pulkit0719) | [![Agentic AI](https://img.shields.io/badge/AI_Agents-58a6ff?style=flat-square&logo=openai&logoColor=white)](https://github.com/Pulkit0719) | [![npm](https://img.shields.io/badge/npm%20%2F%20pnpm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://github.com/Pulkit0719) |
+| [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Pulkit0719) | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Pulkit0719) / [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/Pulkit0719) | [![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)](https://github.com/Pulkit0719) | [![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=flat-square&logo=firebase&logoColor=black)](https://github.com/Pulkit0719) | [![Agentic AI](https://img.shields.io/badge/AI_Agents-58a6ff?style=flat-square&logo=openai&logoColor=white)](https://github.com/Pulkit0719) | [![npm / pnpm / Vercel](https://img.shields.io/badge/pnpm_%2F_Vercel-CB3837?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Pulkit0719) |
 
 </div>
 
@@ -292,22 +292,29 @@
 
 <div align="center">
 
-### 4. **Evara**
-**Women-Centric Menstrual Health & Holistic Wellness Platform**
+### 4. [**Evara**](https://github.com/Pulkit0719/Evara)
+**Privacy-Focused Full-Stack Cycle & Holistic Wellness Platform**
 
-[![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Pulkit0719)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Pulkit0719)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Pulkit0719)
-[![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)](https://github.com/Pulkit0719)
-[![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)](https://github.com/Pulkit0719)
-[![MySQL / TiDB](https://img.shields.io/badge/TiDB_MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Pulkit0719)
+[![Live Application](https://img.shields.io/badge/Live_App-evara--gray.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://evara-gray.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/Repository-Pulkit0719%2FEvara-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pulkit0719/Evara)
+<br/>
+[![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/Pulkit0719/Evara)
+[![TypeScript](https://img.shields.io/badge/TypeScript_5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Pulkit0719/Evara)
+[![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Pulkit0719/Evara)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Pulkit0719/Evara)
+[![tRPC](https://img.shields.io/badge/tRPC_v11-2596BE?style=flat-square&logo=trpc&logoColor=white)](https://github.com/Pulkit0719/Evara)
+[![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)](https://github.com/Pulkit0719/Evara)
+[![TiDB Cloud](https://img.shields.io/badge/TiDB_Serverless-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Pulkit0719/Evara)
+[![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://evara-gray.vercel.app)
 
 </div>
 
-- **Cycle Prediction Engine**: Calculates cycle variability, flow intensity, and forecast windows with statistical tracking.
-- **Holistic Metric Logging**: Comprehensive data logging for symptoms, energy, sleep, hydration, and stress levels.
-- **Visual Analytics**: Interactive Recharts data visualizations and calendar-based pattern mapping.
-- **Privacy & Portability**: User-scoped data privacy, tamper-safe architecture, JSON export, and complete data erasure controls.
+- **Independent Local Authentication**: Built-in email/password credentials utilizing native `crypto.scrypt` key derivation, random salts, and SHA-256 database-backed session revocation.
+- **Cycle & Symptom Tracking**: Period intervals, flow intensity (`light`, `medium`, `heavy`), and daily symptom tracking across 3 severity tiers with interactive calendar mapping.
+- **Holistic Wellness Intelligence**: Daily logging for mood, energy, sleep hours, water intake, activity, stress, and pain scales with private trend insights.
+- **Zero-Cost Offsite Disaster Recovery**: Client-side `AES-256-GCM` encryption with `gzip` Level 9 compression, SHA-256 checksums, and automated synchronization to private Microsoft OneDrive.
+- **Strict Privacy Boundaries**: User-scoped query filtering (`WHERE userId = ctx.user.id`), cascading data erasure, and physician-ready JSON export.
+- **Production-Grade Stack**: Node.js 22 Serverless on Vercel with TiDB Cloud Serverless (MySQL 8.0, TLS 1.3), 70 automated Vitest tests, and continuous GitHub Actions CI.
 
 ---
 
